@@ -8,7 +8,7 @@ Each of the directory contains a specification file which describes the problem.
 <ul>
     <li>The first assignment was the N-Puzzle problem which requires the <a href="https://en.wikipedia.org/wiki/A*_search_algorithm">A* search</a> algorithm to solve it.<br>
     The problem has been solved in java. "N-Puzzle Problem" directory contains the solution</li>
-    <li>The second assignment was to develop a Game called <a href="https://en.wikipedia.org/wiki/Mancala">Mancala</a>. In the game I had to develop an AI that would play against the player.<br>
+    <li>The second assignment was to develop a Game called <a href="https://en.wikipedia.org/wiki/Mancala">Mancala</a>. In the game I had to develop an AI that would play against the player.
     For that purpose I employed the <a href="https://en.wikipedia.org/wiki/Minimax">minimax</a> algorithm with alpha-beta pruning.</li>
     <li>The third assignment involved finding the probability of a ghost by <a href="https://en.wikipedia.org/wiki/Hidden_Markov_model">Hidden Markov Model (HMM)</a>.<br>
 </ul>
